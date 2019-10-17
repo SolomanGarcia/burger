@@ -7,4 +7,4 @@ VALUES ('Hangover Burger', false);
 INSERT INTO burgers (burger_name, devoured)
 VALUES ('Mushroom Swiss Cheeseburger', false);
 
-select * from burgers;
+SELECT * FROM burgers;
