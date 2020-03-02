@@ -12,6 +12,8 @@
 
 #newburger {
   border-radius: 5px;
+  height: 30px;
+  margin-top: 15px;
 }
 
 #color-override {
