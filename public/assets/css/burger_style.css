@@ -8,6 +8,7 @@
 
 .jumbotron > h1 {
   font-family: 'Germania One', cursive;
+  margin-bottom: 20px;
 }
 
 #newburger {
@@ -19,6 +20,7 @@
 #color-override {
   color: #1b1b1b;
 }
+
 
 #lefthead {
   background-color: #5cb85c;
